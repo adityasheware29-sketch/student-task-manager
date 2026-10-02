@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>MY Student Task Manager</h1>
+      <h1>My Student Task Manager 🚀</h1>
 
       <div className="add-row">
         <input
